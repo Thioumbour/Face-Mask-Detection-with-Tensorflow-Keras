@@ -1,7 +1,3 @@
-
-![vid1](https://user-images.githubusercontent.com/54810377/116796565-b2d91e80-aadd-11eb-9d7e-f6ab575b506c.png)
-![vid2](https://user-images.githubusercontent.com/54810377/116796568-b5d40f00-aadd-11eb-8a88-60be0ebc896f.png)
-![out5](https://user-images.githubusercontent.com/54810377/116796585-e025cc80-aadd-11eb-8865-abc4f45a4356.png)
 # Face-Mask-Datection-with-Tensorflow-Keras-and-OpenCV
 ## About this project
 Face Mask Detection system built with Tensorflow, keras and OpenCV using Deep Learning and Computer Vision concepts in order to detect face masks in static images, real-time video streams and in webapp
@@ -48,3 +44,6 @@ command
 $ streamlit run app.py 
 
 # RESULTS
+
+![vid2](https://user-images.githubusercontent.com/54810377/116796568-b5d40f00-aadd-11eb-8a88-60be0ebc896f.png)
+![out5](https://user-images.githubusercontent.com/54810377/116796585-e025cc80-aadd-11eb-8865-abc4f45a4356.png)
