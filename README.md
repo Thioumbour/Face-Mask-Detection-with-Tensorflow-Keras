@@ -44,7 +44,14 @@ command
 $ streamlit run app.py 
 
 # RESULTS
+
  Real time face mask detection on webcam
+ 
+ 
 ![vid2](https://user-images.githubusercontent.com/54810377/116796568-b5d40f00-aadd-11eb-8a88-60be0ebc896f.png)
+
+
 Face mask detection on image
+
+
 ![out5](https://user-images.githubusercontent.com/54810377/116796585-e025cc80-aadd-11eb-8865-abc4f45a4356.png)
