@@ -1,15 +1,15 @@
-# Face-Mask-Detection-with-Tensorflow-Keras-and-OpenCV
+# Face Mask Detection with Tensorflow, Keras and OpenCV
 ## About this project
 Face Mask Detection system built with Tensorflow, keras and OpenCV using Deep Learning and Computer Vision concepts in order to detect face masks in static images, real-time video streams and in webapp
 
 # USAGE
     Clone the repo
 
-$ git clone https://github.com/Thioumbour/Face-Mask-Datection-with-Tensorflow-Keras-and-OpenCV.git
+$ git clone https://github.com/Thioumbour/Face-Mask-Detection-with-Tensorflow-Keras.git
 
     Change your directory to the cloned repo
 
-$ cd Face-Mask-Detection-with-Tensorflow-keras-and-OpenCV
+$ cd Face-Mask-Detection-with-Tensorflow-keras
 
     Create a Python virtual environment named 'test' and activate it
 
