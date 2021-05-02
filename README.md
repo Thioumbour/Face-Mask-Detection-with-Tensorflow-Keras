@@ -1,4 +1,4 @@
-# Face-Mask-Datection-with-Tensorflow-Keras-and-OpenCV
+# Face-Mask-Détection-with-Tensorflow-Keras-and-OpenCV
 ## About this project
 Face Mask Detection system built with Tensorflow, keras and OpenCV using Deep Learning and Computer Vision concepts in order to detect face masks in static images, real-time video streams and in webapp
 
